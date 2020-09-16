@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f64bbce-2e39-4201-8ae2-075a0984d3f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/gitTestHelloWorld/branch2/Branch2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gitTestHelloWorld/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gitTestHelloWorld/com/company/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,14 +19,13 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.39617082" />
   </component>
@@ -46,6 +46,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -70,6 +71,8 @@
       <workItem from="1596210656675" duration="599000" />
       <workItem from="1599592699212" duration="2111000" />
       <workItem from="1599765431358" duration="642000" />
+      <workItem from="1600232750218" duration="683000" />
+      <workItem from="1600269320878" duration="866000" />
     </task>
     <task id="LOCAL-00001" summary="github.com added..">
       <created>1585233715229</created>
@@ -103,34 +106,50 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="github.com added.." />
     <option name="LAST_COMMIT_MESSAGE" value="github.com added.." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="26" key="#Project_Structure" timestamp="1599593768406">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="309" y="0" key="#Project_Structure" timestamp="1600232823604">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="275" y="26" key="#Project_Structure/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1599593768406" />
+    <state x="309" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1600232823604" />
     <state x="307" y="0" key="CommitChangelistDialog2" timestamp="1595439172818">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="307" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.-420.1920.1040@0.0.1366.728" timestamp="1595439172818" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1600239928717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600239928717" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1600239928717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600239928717" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1600239928717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600239928717" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1600239928717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600239928717" />
     <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1595439176400">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
